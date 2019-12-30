@@ -1,0 +1,23 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boton.js",
+  "dependencies": {
+    "johnny-five": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fotoresistencia",
+    "boton",
+    "led",
+    "RGB",
+    "sensor",
+    "sonico"
+  ],
+  "author": "hdjesus",
+  "license": "ISC"
+}
